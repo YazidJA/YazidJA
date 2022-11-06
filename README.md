@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi ! I'm Yazid J. Alaoui 👋</h1>
 <h3 align="center">Front-end Developer</h3>
-<a href="yazid.ca" target="_blank" rel="noreferrer"><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/18163865/200194703-fe2e9c3b-814d-49a1-837f-792265cabc9b.gif"></a>
+<a href="http://yazid.ca" target="_blank" rel="noreferrer"><img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/18163865/200194703-fe2e9c3b-814d-49a1-837f-792265cabc9b.gif"></a>
 
 I’m a self-thought developer based in Canada. I've been coding here and there as a hobby since 2008. My main focus has mostly been on front-end web development.
 
