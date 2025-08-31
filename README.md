@@ -6,9 +6,9 @@ I’m a self-thought developer based in Canada. I've been coding here and there 
 
 My main skills are HTML, CSS, Javascript and React. I also use Bootstrap in my projects and I am familiar with jQuery, Node, Express, MongoDB, Git, and deployment with Heroku.
 
-In the past I have held many management roles such as Project Manager or Purchasing Manager and I have been involved in a couple of tech projects using 3D Printing and Microcontrollers.
+In the past I have held many management roles in different sectors and I have been involved in a couple of tech projects using 3D Printing, Microcontrollers and implementing Software solutions.
 
-Today I am fully dedicated to turning my passion for coding into a job.
+Today I am fully dedicated to making a living from my passion for tech.
 
 - 🌍  I'm based in Montreal, Canada
 - 🖥️  See my portfolio at [yazid.ca](http://yazid.ca)
